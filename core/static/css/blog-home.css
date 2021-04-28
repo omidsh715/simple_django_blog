@@ -1,0 +1,19 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+@font-face {
+ font-family: Vazir;
+ font-style: normal;
+ font-weight: normal;
+ url('Vazir.woff') format('woff'),
+}
+
+
+
+body {
+  padding-top: 56px;
+  font-family: Vazir;
+}
+
